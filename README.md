@@ -1,6 +1,6 @@
 TMC5160 HV Board is minimalistic RP2040zero based PCB setted up for 2xTMC5160HV stepper drivers allowing to connect up to 48V
 
-<
+![PXL_20220422_193249584](https://user-images.githubusercontent.com/77267254/171462816-23b2c5af-58b2-447e-b50a-b24a07ed1058.jpg)
 
 BOM
 ```
