@@ -1,4 +1,4 @@
-TMC5160 HV Board is minimalistic RP2040zero based PCB setted up for 2xTMC5160HV stepper drivers SPI mode, allows to connect up to 48V.
+PMHV TMC5160HV Board is minimalistic RP2040zero based PCB setted up for 2xTMC5160HV stepper drivers SPI mode, allows to connect up to 48V.
 
 Keep in mind this is an beta version. 
 
