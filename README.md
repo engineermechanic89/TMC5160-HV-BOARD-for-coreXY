@@ -11,6 +11,7 @@ BOM
 3. R3 100k 0804 resistor
 4. D1 P4SMA51A transil
 5. 2x 330uf 63V electrolityc caps
-6. 5mm raster ark terminal, jst xhs, goldpin sockets 
+6. 3A fast blow THT fuse
+7. 5mm raster ark terminal, jst xhs, goldpin sockets 
 
 ```
